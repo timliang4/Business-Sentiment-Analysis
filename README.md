@@ -31,7 +31,7 @@ Now, the RESTful resource for business sentiment analysis is deployed at `http:/
 
 You can consume the deployed API in anyway you like (curl, your own app, etc.). This short guide will detail how to consume the API using the provided companion app.
 
-In this forked repository, `cd` into the `app` folder (this is where the app is housed) using your terminal and run (make sure you have node and npm):
+In the forked repository, `cd` into the `app` folder (this is where the app is housed) using your terminal and run (make sure you have node and npm):
 
 ```
 npm run dev
