@@ -10,7 +10,7 @@ The Business Sentiment Analysis RESTful API performs sentiment analysis on the m
 
 ## Example
 
->The API and app are not publicly deployed because the Google Places API is not free and neither is deploying apps.
+>The API and app are not publicly deployed because the Google Places API is not free.
 
 Analyzing the sentiment for [Aja Asian Cuisine](https://www.google.com/maps/place/Aja+Asian+Cuisine/@40.420953,-74.655754,779m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89c3e89a69512f01:0x9014df1b2e11661c!8m2!3d40.420953!4d-74.655754!16s%2Fg%2F11c60mlz_1?entry=ttu). Its sentiment entry can edited, updated, or deleted.
 
