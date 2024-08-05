@@ -1,6 +1,6 @@
 # Business Sentiment Analysis
 
-#### **A RESTful API for performing sentiment analysis on recent business reviews, with a companion React app**
+>A RESTful API for performing sentiment analysis on recent business reviews, with a companion React app
 
 ## Motivation
 
