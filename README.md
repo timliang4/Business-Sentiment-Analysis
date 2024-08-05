@@ -10,35 +10,6 @@ The Business Sentiment Analysis RESTful API performs sentiment analysis on the m
 
 #### **The API and app are not publicly deployed because the Google Places API is not free. However, you are more than welcome to deploy the API locally or publicly for your own use. :)**
 
-## API Local Setup
-
-To configure this API on your local machine, fork this repository and enter your Google Places API key in the `business-sentiment-analysis/src/main/java/com/tim_liang/business_sentiment_analysis/PlacesAPIHandler.java` file:
-
-```
-private static final String API_KEY = "API_KEY";
-```
-
-Then `cd` into the `business-sentiment-analysis` folder (this is where the API backend code is) using your terminal and run (make sure you have Java 17+):
-
-```
-./mvnw clean package
-java -jar target/business-sentiment-analysis-0.0.1-SNAPSHOT.jar
-```
-
-Now, the RESTful resource for business sentiment analysis is deployed at `http://localhost:8080/business/`.
-
-## App Usage
-
-You can consume the deployed API in anyway you like (curl, your own app, etc.). This short guide will detail how to consume the API using the provided companion app.
-
-In the forked repository, `cd` into the `app` folder (this is where the app is housed) using your terminal and run (make sure you have node and npm):
-
-```
-npm run dev
-```
-
-Now, the app should be deployed, with its url provided in the terminal output.
-
 ### Example
 
 The API supports CRUD operations. This example will go through each operation.
