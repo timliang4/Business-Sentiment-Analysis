@@ -12,7 +12,7 @@ The Business Sentiment Analysis RESTful API performs sentiment analysis on the m
 
 >The API and app are not publicly deployed because the Google Places API is not free.
 
-The ```business-sentiment-analysis``` contains the Spring Boot REST API code. It was developed as a Maven project, so it has a jar executable you can run on your local machine.
+The ```business-sentiment-analysis``` folder contains a Maven project with the Spring Boot REST API code. It has a jar executable you can run on your local machine.
 
 The ```app``` folder contains the React front-end application. It provides functionality for creating, reading, updating, and deleting sentiment analysis entries for businesses.
 
