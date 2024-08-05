@@ -1,6 +1,6 @@
 # ReviewInsight
 
->A RESTful API for performing sentiment analysis on recent business reviews, with a companion React app
+>RESTful API and companion app for analyzing recent business reviews
 
 ## Motivation
 
