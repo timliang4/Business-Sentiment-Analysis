@@ -12,7 +12,7 @@ The Business Sentiment Analysis RESTful API performs sentiment analysis on the m
 
 >The API and app are not publicly deployed because the Google Places API is not free and neither is deploying apps.
 
-Analyzing the sentiment for Aja Asian Cuisine.
+Analyzing the sentiment for Aja Asian Cuisine. Its sentiment entry can edited, updated, or deleted.
 
 <img src="images/reading.png" width=360>
 
