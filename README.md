@@ -8,7 +8,7 @@ The online ratings and reviews for businesses are often outdated and, as a resul
 
 The Business Sentiment Analysis RESTful API performs sentiment analysis on the most recent reviews of any business supported by the [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview), providing users with up-to-date and accurate information about the business.
 
-The API and app are not publicly deployed because the Google Places API is not free. However, you are more than welcome to deploy the API locally or publicly for your own use.
+The API and app are not publicly deployed because the Google Places API is not free and neither is deploying apps.
 
 ### Example
 
