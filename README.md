@@ -6,7 +6,7 @@
 
 The online ratings and reviews for businesses are often outdated and, as a result, inaccurate.
 
-The Business Sentiment Analysis RESTful API performs sentiment analysis on the most recent reviews of any business supported by the [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview), providing users with up-to-date and accurate information about the business.
+The ReviewInsight performs sentiment analysis on the most recent reviews of any business supported by the [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview), providing users with up-to-date and accurate information about the business.
 
 ## Code
 
